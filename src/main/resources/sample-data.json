@@ -1,0 +1,38 @@
+
+  [
+    {
+      "symbol": "TEA",
+      "type": "common",
+      "lastDividend": 0,
+      "fixedDividend": 0.0,
+      "perValue": 100
+    },
+    {
+      "symbol": "POP",
+      "type": "common",
+      "lastDividend": 8,
+      "fixedDividend": 0.0,
+      "perValue": 100
+    },
+    {
+      "symbol": "ALE",
+      "type": "common",
+      "lastDividend": 23,
+      "fixedDividend": 0.0,
+      "perValue": 60
+    },
+    {
+      "symbol": "GIN",
+      "type": "preferred",
+      "lastDividend": 8,
+      "fixedDividend": 2,
+      "perValue": 100
+    },
+    {
+      "Symbol": "JOE",
+      "type": "common",
+      "lastDividend": 13,
+      "fixedDividend": 0.0,
+      "perValue": 250
+    }
+  ]
